@@ -1,0 +1,21 @@
+body {
+    background-color: silver;
+}
+
+.img-box {
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.img-photo2 {
+    height: 160px;
+    width: 160px;
+}
+
+.img-photo {
+    height: 140px;
+    width: 140px;
+}
